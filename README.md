@@ -1,0 +1,1 @@
+Description: Responsible AI Inspector assignment: two case analyses (Hiring Bot bias, AI proctoring & accessibility). Covers what the AI does, risks (fairness, privacy, accountability), and one practical improvement—written in a short blog style.
